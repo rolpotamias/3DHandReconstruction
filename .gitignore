@@ -1,0 +1,10 @@
+# Licensed MANO assets — never commit (MPI licence, not redistributable)
+MANO_RIGHT.pkl
+mano_right.npz
+*.pkl
+# notebook/run artefacts
+outputs/
+batch_input.jsonl
+batch_output/
+.ipynb_checkpoints/
+__pycache__/

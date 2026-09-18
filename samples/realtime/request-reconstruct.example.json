@@ -1,0 +1,10 @@
+{
+ "image": "<base64 JPEG/PNG>",
+ "mano_npz": "<base64 of your converted mano_right.npz>",
+ "options": {
+  "conf": 0.3,
+  "iou": 0.7,
+  "rescale_factor": 2.0,
+  "mesh": true
+ }
+}

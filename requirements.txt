@@ -1,0 +1,9 @@
+# Sample notebook + client
+boto3>=1.34
+numpy
+matplotlib
+pillow
+# Optional, for the 3D mesh render cell:
+#   pyrender trimesh
+# One-time MANO conversion (separate environment, see README):
+#   pip install "numpy<1.24" chumpy scipy
